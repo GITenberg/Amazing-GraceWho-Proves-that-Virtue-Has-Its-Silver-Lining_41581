@@ -1,0 +1,37 @@
+_repo: Amazing-GraceWho-Proves-that-Virtue-Has-Its-Silver-Lining_41581
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Crosby, Raymond Moreau
+    alias: Crosby, R. M. (Raymond Moreau)
+    birthdate: 1876
+    deathdate: 1945
+    gutenberg_agent_id: '25177'
+    url: http://www.gutenberg.org/2009/agents/25177
+covers:
+- cover_type: archival
+  image_path: 41581-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sharber, Kate Trimble
+    birthdate: 1883
+    gutenberg_agent_id: '40477'
+    url: http://www.gutenberg.org/2009/agents/40477
+description: ''
+gutenberg_issued: '2012-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41581'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southern States -- Social life and customs -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Letters -- Fiction'
+- !lcsh 'Women journalists -- Fiction'
+title: Amazing Grace, Who Proves That Virtue Has Its Silver Lining
+url: http://www.gutenberg.org/ebooks/41581
